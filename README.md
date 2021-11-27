@@ -4,4 +4,13 @@
   <img  src="https://www.jivochat.com/assets/images/compressed/chatbots/chatbots-white.png">
 </p>
 
-## 1. Introduction to Deep Learning
+## 1. create virtual enivronment In linux
+
+```
+              python3 -m venv ./venv
+              cd venv/bin/activate
+              pip3 install -r requirements.txt
+      
+```
+
+
