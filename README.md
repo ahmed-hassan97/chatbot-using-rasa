@@ -33,10 +33,10 @@
 
 * intent (NLU) carry all sentence which express on 4 category
 
-            * Greet
-            * GoodBye
-            * Capital
-            * Population
+            1- Greet
+            2- GoodBye
+            3- Capital
+            4- Population
     
 *    
 
