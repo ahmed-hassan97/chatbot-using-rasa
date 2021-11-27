@@ -1,0 +1,31 @@
+version: "2.0"
+
+intents:
+  - greet
+  - goodbye
+  - capital
+  - city
+  - population
+
+actions:
+  - utter_greet
+  - utter_goodbye
+  - utter_city
+  - action_capital_api
+  - action_population_api
+
+responses:
+  utter_greet:
+    - text: "Hey! How are you?"
+
+  utter_goodbye:
+    - text: "Bye"
+
+  utter_city:
+    - text: "which city you want to check for?"
+
+  utter_capital_country:
+    - text: "the capital of this country is : {cap}"
+
+  utter_population_country:
+    - text: "the population of this country is : {pop}"

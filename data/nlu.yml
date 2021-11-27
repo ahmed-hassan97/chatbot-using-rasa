@@ -1,0 +1,47 @@
+version: "2.0"
+
+nlu:
+  - intent: greet
+    examples: |
+      - hey
+      - hello
+      - hi
+      - hello there
+      - good morning
+      - good evening
+      - hey there
+      - let's go
+      - hey dude
+      - goodmorning
+      - goodevening
+      - good afternoon
+
+  - intent: goodbye
+    examples: |
+      - good afternoon
+      - cu
+      - good by
+      - cee you later
+      - good night
+      - bye
+      - goodbye
+      - have a nice day
+      - see you around
+      - bye bye
+      - see you later
+
+  - intent: capital
+    examples: |
+      - i want to know what is the capital of country
+      - please can you tell me capital of country?
+      - what is the capital of country?
+
+  - intent: city
+    examples: |
+      - what is the country you want to know?
+
+  - intent: population
+    examples: |
+      - i want to know what is the population of country
+      - please can you tell me population of country?
+      - what is the population of country?
