@@ -1,2 +1,7 @@
-# chatbot-using-rasa-
-train rasa chatbot on custom dataset to answer on capital of each country 
+# build ChatBot Using Rasa
+
+<p align="center">
+  <img  src="https://www.jivochat.com/assets/images/compressed/chatbots/chatbots-white.png">
+</p>
+
+## 1. Introduction to Deep Learning
