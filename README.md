@@ -38,6 +38,13 @@
             3- Capital
             4- Population
     
-*    
+
+* story file carry all output and utter
+
+* apiRequest file carry all request to get and post data on endpoint
+ 
+* actions file pass output of user to apiRequest file to get capital or population 
+
+## End
 
 
